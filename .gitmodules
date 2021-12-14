@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/tylerjlawson/port-hugo.git
+[submodule "Client/themes/ananke"]
+	path = Client/themes/ananke
+	url = https://github.com/tylerjlawson/port-hugo.git
